@@ -14,7 +14,17 @@
   <img src="https://img.shields.io/github/stars/connectai-e?color=fefb7b&logo=Undertale" width=""/>
 </p>
 
+<p align='center'>
+  😀飞书开源马拉松正式开始评审环节啦😀
+</p>
 
+<p align='center'>
+  快来pick你最喜欢的开源项目吧!
+</p>
+  
+<p align='center'>
+   https://wenjuan.feishu.cn/m/cfm?t=s6hfGkEr4pMi-8ph5
+</p>
 
 
 
