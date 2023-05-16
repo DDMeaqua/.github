@@ -15,7 +15,7 @@
 </p>
 
 <p align='center'>
-  😀飞书开源马拉松正式开始评审环节啦😀
+  😀Connect-AI-E开源马拉松正式开始评审环节啦😀
 </p>
 
 <p align='center'>
