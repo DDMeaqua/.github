@@ -14,17 +14,29 @@
   <img src="https://img.shields.io/github/stars/connectai-e?color=fefb7b&logo=Undertale" width=""/>
 </p>
 
+  
+  
+ <p align='center'>
+   🧨 connectAI开源马拉松的奖项揭晓啦！
+</p>
 <p align='center'>
-  😀Connect-AI-E开源马拉松正式开始评审环节啦😀
+   https://fork-way.feishu.cn/docx/Az4Kdc5xWo98qJx0xJRcMH0once
 </p>
 
-<p align='center'>
-  快来pick你最喜欢的开源项目吧!
-</p>
+😀 杰出项目奖：飞书-Stablediffusion（奖品包括一台苹果iPhone14和三张价值300元的京东E卡）
+
+😎 优秀项目奖：飞书-插件生态机器人（奖品包括一台索尼（SONY）PS5游戏机和三张价值300元的京东E卡）
+
+🍗 开源优秀奖：飞书-Midjourney获奖（奖品为三张价值300元的京东E卡）
+
+🏹 活跃成员奖：武磊波、古灵、李钰成、测试-小梦（奖品为一张价值300元的京东E卡）
+
+🚑 此外，所有其他完成课题的队长也将获得奖励（一张价值300元的京东E卡）
+
+衷心感谢以上同学在本次马拉松比赛中的辛勤付出！
+
   
-<p align='center'>
-   https://wenjuan.feishu.cn/m/cfm?t=s6hfGkEr4pMi-8ph5
-</p>
+
 
 
 
