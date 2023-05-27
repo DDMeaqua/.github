@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/github/stars/connectai-e?color=fefb7b&logo=Undertale" width=""/>
 </p>
 
+
+
   
   
  <p align='center'>
@@ -21,6 +23,10 @@
 </p>
 <p align='center'>
    https://fork-way.feishu.cn/docx/Az4Kdc5xWo98qJx0xJRcMH0once
+</p>
+
+<p align='center'>
+  <img src="https://github.com/ConnectAI-E/.github/assets/50035229/0ab08f67-3512-4a20-a4f4-31f97651f4d7" width="600"/>
 </p>
 
 😀 杰出项目奖：飞书-Stablediffusion（奖品包括一台苹果iPhone14和三张价值300元的京东E卡）
