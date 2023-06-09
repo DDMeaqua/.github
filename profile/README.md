@@ -34,7 +34,7 @@
 
   
  <p align='center'>
-   🧨 connectAI开源马拉松的奖项揭晓啦！
+   🧨 Connect-AI开源马拉松的奖项揭晓啦！
 </p>
 
 <p align='center'>
