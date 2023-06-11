@@ -1,7 +1,10 @@
 
-<div align=center> 
-<img src="https://github.com/ConnectAI-E/.github/assets/50035229/4f10ddac-c3bb-47d8-836c-810c6be39634" width="100%"/> 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%"  height="1">
+<div align="center">
+	<a href='https://qiniai.com' target="_blank" rel="noopener noreferrer">
+	<img src="https://user-images.githubusercontent.com/50035229/241956976-4f10ddac-c3bb-47d8-836c-810c6be39634.png" width="100%" >
+	</a>
+</div>
+
   
 <p align='center'>
    www.qiniai.com
