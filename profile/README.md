@@ -18,7 +18,7 @@
 
 
 <p align='center'>
-  <img src="https://img.shields.io/github/stars/connectai-e?color=fefb7b&logo=Undertale" width=""/>
+  <img src="https://img.shields.io/github/stars/connectai-e?color=F5EFE7&logo=Undertale" width=""/>
 </p>
 
 
