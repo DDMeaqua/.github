@@ -7,7 +7,7 @@
 
   
 <p align='center'>
-   www.qiniai.com
+   www.connectai-e.com
 </p>
 
 </div>
