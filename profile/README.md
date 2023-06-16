@@ -1,6 +1,6 @@
 
 <div align="center">
-	<a href='https://qiniai.com' target="_blank" rel="noopener noreferrer">
+	<a href='https://www.connectai-e.com' target="_blank" rel="noopener noreferrer">
 	<img src="https://user-images.githubusercontent.com/50035229/241956976-4f10ddac-c3bb-47d8-836c-810c6be39634.png" width="100%" >
 	</a>
 </div>
