@@ -18,7 +18,7 @@
 
 
 <p align='center'>
-  <img src="https://img.shields.io/github/stars/connectai-e?color=B31312&style=flat&logo=tinder&logoColor=FFE569" width=""/>
+  <img src="https://img.shields.io/github/stars/connectai-e?color=B31312&style=flat&logo=tinder&logoColor=FFE569&cacheSeconds=120" width=""/>
 </p>
 
 
