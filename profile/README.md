@@ -58,6 +58,10 @@
 </p>
 
   
+|                            飞书AI                            |
+| :----------------------------------------------------------: |
+| [🏅Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI),[🎖Lark-OpenAI](https://github.com/ConnectAI-E/Lark-OpenAI),[Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT),[🎖Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot),[Feishu-TLDR](https://github.com/ConnectAI-E/Feishu-TLDR),[Feishu-OpenAI-Amazing](https://github.com/ConnectAI-E/Feishu-OpenAI-Amazing),[Feishu-Oral-Friend](https://github.com/ConnectAI-E/Feishu-Oral-Friend),[Feishu-OpenAI-Base-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-Base-Helper), [Feishu-Vector-Knowledge-Management](https://github.com/ConnectAI-E/Feishu-Vector-Knowledge-Management), [Feishu-OpenAI-PDF-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-PDF-Helper),[🎖Feishu-Stablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion),[🏅Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney),[Feishu-Wenxin](https://github.com/ConnectAI-E/Feishu-Wenxin),[Feishu-Minimax](https://github.com/ConnectAI-E/Feishu-Minimax),[Feishu-Claude](https://github.com/ConnectAI-E/Feishu-Claude),[Feishu-PaLM](https://github.com/ConnectAI-E/Feishu-PaLM),[FeishuAppHelper](https://github.com/ConnectAI-E/FeishuAppHelper),[FeishuPromptStudio](https://github.com/ConnectAI-E/FeishuPromptStudio) |
+
 
 
 
