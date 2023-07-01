@@ -39,23 +39,12 @@
 |            🪄 One-click            |                            ------                            | [🎖Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) |
 
 
-
-
-
-  
- <p align='center'>
-   🧨 Connect-AI开源马拉松的奖项揭晓啦！
-</p>
-
-<p align='center'>
-  <img src="https://github.com/ConnectAI-E/.github/assets/50035229/0ab08f67-3512-4a20-a4f4-31f97651f4d7" width="600"/>
-</p>
-
-
-<p align='center'>
-   更多信息
-   https://fork-way.feishu.cn/docx/Az4Kdc5xWo98qJx0xJRcMH0once
-</p>
+<br/>
+<a href="https://www.connectai-e.com" target="_blank" rel="noreferrer">
+  <img align="center" width="100%" height="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/250275961-a5bf7f18-2549-4374-88d8-5d638412446e.svg" style="margin-bottom: 10px">
+</a>
+<br/>
+<br/>
 
 |                            飞书AI探索                            |
 | :----------------------------------------------------------: |
