@@ -1,10 +1,10 @@
 
-<div align="center">
-	<a href='https://www.connectai-e.com' target="_blank" rel="noopener noreferrer">
-	<img src="https://user-images.githubusercontent.com/50035229/241956976-4f10ddac-c3bb-47d8-836c-810c6be39634.png" width="100%" >
-	</a>
-</div>
-
+<br/>
+<a href="https://www.connectai-e.com" target="_blank" rel="noreferrer">
+  <img align="center" width="100%" height="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/250275961-a5bf7f18-2549-4374-88d8-5d638412446e.svg" style="margin-bottom: 10px">
+</a>
+<br/>
+<br/>
   
 <p align='center'>
    www.connectai-e.com
@@ -39,10 +39,6 @@
 |            🪄 One-click            |                            ------                            | [🎖Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) |
 
 
-<br/>
-<a href="https://www.connectai-e.com" target="_blank" rel="noreferrer">
-  <img align="center" width="100%" height="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/250275961-a5bf7f18-2549-4374-88d8-5d638412446e.svg" style="margin-bottom: 10px">
-</a>
 <br/>
 <br/>
 
