@@ -49,7 +49,8 @@
 <br/>
 <br/>
 <div align='center'>
-   <img align="center" src="https://github.com/ConnectAI-E/.github/assets/50035229/fff77073-cf01-4e94-bf2c-d50572d27eba" width="220"/>
+  <img width="220" alt="image" src="https://github.com/ConnectAI-E/.github/assets/50035229/972804da-89b4-43dc-9464-c18adcb10e4b">
 </div>
+
 
 
