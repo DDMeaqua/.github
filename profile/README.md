@@ -1,7 +1,7 @@
 
 <br/>
 <a href="https://www.connectai-e.com" target="_blank" rel="noreferrer">
-  <img align="center" width="100%" height="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/250275961-a5bf7f18-2549-4374-88d8-5d638412446e.svg" style="margin-bottom: 10px">
+  <img align="center" width="100%" height="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/296117325-c8148e3c-e566-424a-b62a-0cf005a74274.svg" style="margin-bottom: 10px">
 </a>
 <br/>
 <br/>
