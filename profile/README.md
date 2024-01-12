@@ -23,11 +23,11 @@
 
 <p align='center'>
    
+### 👋🏻 Howdy! Step right up to ConnectAI!
 
+We're a bunch of ChatBot enthusiasts in the AI rodeo, boasting the fanciest bot wranglers. Open source vibes, Bot First attitude, and AIGC are the secret sauce of our posse. Saddle up, partner! 
 
 </p>
-
-
 
 
 | <div style="width:200px">AI</div> |             <img width=120> SDK <img width=120>              |                         Application                          |
@@ -49,15 +49,14 @@
 <br/>
 <br/>
 
-|                          飞书AI探索                          |
+|                          Lark AI Market                          |
 | :----------------------------------------------------------: |
 | [🏅Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI),[🎖Lark-OpenAI](https://github.com/ConnectAI-E/Lark-OpenAI)[🎖Feishu-Stablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion),[🏅Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney)<br/>[🍵FeishuAppHelper](https://github.com/ConnectAI-E/FeishuAppHelper),[🍵FeishuPromptStudio](https://github.com/ConnectAI-E/FeishuPromptStudio),[🍵Feishu-OpenAI-Base-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-Base-Helper),[🍵Feishu-OpenAI-PDF-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-PDF-Helper)<br/>[Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT),[🎖Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot),[Feishu-TLDR](https://github.com/ConnectAI-E/Feishu-TLDR),[Feishu-OpenAI-Amazing](https://github.com/ConnectAI-E/Feishu-OpenAI-Amazing),[Feishu-Oral-Friend](https://github.com/ConnectAI-E/Feishu-Oral-Friend), [Feishu-Vector-Knowledge-Management](https://github.com/ConnectAI-E/Feishu-Vector-Knowledge-Management)<br/> [🍍Feishu-Wenxin](https://github.com/ConnectAI-E/Feishu-Wenxin),[💸Feishu-Minimax](https://github.com/ConnectAI-E/Feishu-Minimax),[⛳️Feishu-Claude](https://github.com/ConnectAI-E/Feishu-Claude),[🥁Feishu-PaLM](https://github.com/ConnectAI-E/Feishu-PaLM) |
 
 <br/>
 <br/>
-<div align='center'>
-  <img width="220" alt="image" src="https://github.com/ConnectAI-E/.github/assets/50035229/972804da-89b4-43dc-9464-c18adcb10e4b">
-</div>
+
+<!-- LINK GROUP -->
 
 
 
