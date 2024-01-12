@@ -29,6 +29,12 @@ We're a bunch of ChatBot enthusiasts in the AI rodeo, boasting the fanciest bot 
 
 </p>
 
+### ⭐️ Our Projects
+
+| [**🔥 Feishu-OpenAI**][feishu-openai-github]<br/> 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档伴侣 🚀<br/><br/>[![][feishu-openai-shield]][feishu-openai-github]                      | [![][feishu-openai-cover]][feishu-openai-github]     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+
+
 
 | <div style="width:200px">AI</div> |             <img width=120> SDK <img width=120>              |                         Application                          |
 | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -54,10 +60,12 @@ We're a bunch of ChatBot enthusiasts in the AI rodeo, boasting the fanciest bot 
 | [🏅Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI),[🎖Lark-OpenAI](https://github.com/ConnectAI-E/Lark-OpenAI)[🎖Feishu-Stablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion),[🏅Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney)<br/>[🍵FeishuAppHelper](https://github.com/ConnectAI-E/FeishuAppHelper),[🍵FeishuPromptStudio](https://github.com/ConnectAI-E/FeishuPromptStudio),[🍵Feishu-OpenAI-Base-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-Base-Helper),[🍵Feishu-OpenAI-PDF-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-PDF-Helper)<br/>[Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT),[🎖Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot),[Feishu-TLDR](https://github.com/ConnectAI-E/Feishu-TLDR),[Feishu-OpenAI-Amazing](https://github.com/ConnectAI-E/Feishu-OpenAI-Amazing),[Feishu-Oral-Friend](https://github.com/ConnectAI-E/Feishu-Oral-Friend), [Feishu-Vector-Knowledge-Management](https://github.com/ConnectAI-E/Feishu-Vector-Knowledge-Management)<br/> [🍍Feishu-Wenxin](https://github.com/ConnectAI-E/Feishu-Wenxin),[💸Feishu-Minimax](https://github.com/ConnectAI-E/Feishu-Minimax),[⛳️Feishu-Claude](https://github.com/ConnectAI-E/Feishu-Claude),[🥁Feishu-PaLM](https://github.com/ConnectAI-E/Feishu-PaLM) |
 
 <br/>
-<br/>
 
 <!-- LINK GROUP -->
 
+[feishu-openai-cover]: https://github.com/ConnectAI-E/.github/assets/50035229/8b1729ec-3379-47c8-a181-d9897c20ad52
+[feishu-openai-github]: https://github.com/connectai-e/feishu-openai
+[feishu-openai-shield]: https://img.shields.io/github/stars/connectai-e/feishu-openai?color=ffcb47&labelColor=black&style=flat-square&logo=github
 
 
 
