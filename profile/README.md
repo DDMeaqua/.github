@@ -33,6 +33,7 @@ We're a bunch of ChatBot enthusiasts in the AI rodeo, boasting the fanciest bot 
 
 | [**🔥 Feishu-OpenAI**][feishu-openai-github]<br/> 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档伴侣 🚀<br/><br/>[![][feishu-openai-shield]][feishu-openai-github]                      | [![][feishu-openai-cover]][feishu-openai-github]     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| [**Botops**][botops-github]<br/> 📦 A command line tool that makes chatbot deployment easy, supporting Feishu, DingTalk, Discord, Github and Slack.<br/><br/>[![][botops-shield]][botops-npm]                      | [![][botops-cover]][botops-github]     |
 
 
 
@@ -66,6 +67,10 @@ We're a bunch of ChatBot enthusiasts in the AI rodeo, boasting the fanciest bot 
 [feishu-openai-cover]: https://github.com/ConnectAI-E/.github/assets/50035229/8b1729ec-3379-47c8-a181-d9897c20ad52
 [feishu-openai-github]: https://github.com/connectai-e/feishu-openai
 [feishu-openai-shield]: https://img.shields.io/github/stars/connectai-e/feishu-openai?color=ffcb47&labelColor=black&style=flat-square&logo=github
+[botops-github]: https://github.com/connectai-e/botops
+[botops-cover]: https://github.com/ConnectAI-E/.github/assets/50035229/f7b28776-269e-4dd1-9eca-b728a996b39a
+[botops-shield]: https://img.shields.io/npm/dt/botops?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[botops-npm]: https://www.npmjs.com/package/botops
 
 
 
